@@ -1,0 +1,127 @@
+D:\Trabajo\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\bin\Debug\bdanexo.accdb
+D:\Trabajo\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\bin\Debug\ControlAnexo.exe.config
+D:\Trabajo\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\bin\Debug\ControlAnexo.exe
+D:\Trabajo\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\bin\Debug\ControlAnexo.pdb
+D:\Trabajo\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.modeloanexo4.ReportAnexo4.resources
+D:\Trabajo\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.PrintRibbonControllerResources.resources
+D:\Trabajo\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.Form1.resources
+D:\Trabajo\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.Properties.Resources.resources
+D:\Trabajo\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.XRDesignRibbonControllerResources.resources
+D:\Trabajo\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.csproj.GenerateResource.Cache
+D:\Trabajo\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.exe.licenses
+D:\Trabajo\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.exe
+D:\Trabajo\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.pdb
+D:\Trabajo\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.csprojResolveAssemblyReference.cache
+D:\Trabajo\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\bin\Debug\vistas\Form1.resx
+D:\Trabajo\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\bin\Debug\vistas\Form1.cs
+D:\Trabajo\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\bin\Debug\vistas\Form1.Designer.cs
+D:\Trabajo\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.modeloanexo4.escanerReport.resources
+D:\Trabajo\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.modeloanexo4.faxReport.resources
+D:\Trabajo\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.modeloanexo4.fotocopiadoraReport.resources
+D:\Trabajo\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.modeloanexo4.impresoraReport.resources
+D:\Trabajo\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.modeloanexo4.upsReport.resources
+D:\Trabajo\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.modeloanexo4.monitorReport.resources
+D:\Trabajo\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.vistas.VActualizarDatos.resources
+D:\Trabajo\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.vistas.VReporte.resources
+D:\Trabajo\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.vistas.Vinicio.resources
+D:\Trabajo\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.vistas.VNuevoMedioComputo.resources
+D:\Trabajo\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.modeloanexo4.TotalUsuarios.resources
+D:\Trabajo\Workspace\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.modeloanexo4.accesoriosReport.resources
+D:\Trabajo\Workspace\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.modeloanexo4.almacenamientoReport.resources
+D:\Trabajo\Workspace\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.modeloanexo4.configReport.resources
+D:\Trabajo\Workspace\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.modeloanexo4.escanerReport.resources
+D:\Trabajo\Workspace\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.modeloanexo4.faxReport.resources
+D:\Trabajo\Workspace\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.modeloanexo4.fotocopiadoraReport.resources
+D:\Trabajo\Workspace\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.modeloanexo4.impresoraReport.resources
+D:\Trabajo\Workspace\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.modeloanexo4.monitorReport.resources
+D:\Trabajo\Workspace\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.modeloanexo4.TotalUsuarios.resources
+D:\Trabajo\Workspace\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.modeloanexo4.upsReport.resources
+D:\Trabajo\Workspace\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.PrintRibbonControllerResources.resources
+D:\Trabajo\Workspace\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.vistas.VNuevoUsuario.resources
+D:\Trabajo\Workspace\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.vistas.VActualizarDatos.resources
+D:\Trabajo\Workspace\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.Properties.Resources.resources
+D:\Trabajo\Workspace\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.vistas.VReporte.resources
+D:\Trabajo\Workspace\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.vistas.Vinicio.resources
+D:\Trabajo\Workspace\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.vistas.VNuevoMedioComputo.resources
+D:\Trabajo\Workspace\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.XRDesignRibbonControllerResources.resources
+D:\Trabajo\Workspace\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.exe.licenses
+D:\Trabajo\Workspace\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\bin\Debug\bdanexo.accdb
+D:\Trabajo\Workspace\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\bin\Debug\ControlAnexo.exe.config
+D:\Trabajo\Workspace\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\bin\Debug\ControlAnexo.exe
+D:\Trabajo\Workspace\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\bin\Debug\ControlAnexo.pdb
+D:\Trabajo\Workspace\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.exe
+D:\Trabajo\Workspace\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.pdb
+D:\Trabajo\Workspace\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.modeloanexo4.anexo4.resources
+D:\Trabajo\Workspace\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.modeloanexo4.SwReport.resources
+D:\Trabajo\Workspace\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.modeloanexo4.anexoReport.resources
+D:\Trabajo\Workspace\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.csprojResolveAssemblyReference.cache
+D:\Trabajo\Workspace\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.csproj.GenerateResource.Cache
+D:\Trabajo\Workspace\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.vistas.VPantallaInicial.resources
+D:\Trabajo\Workspace\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.vistas.VSplashScreen.resources
+D:\Trabajo\Workspace\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\bin\Debug\ControlAnexo.exe.config
+D:\Trabajo\Workspace\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.exe
+D:\Trabajo\Workspace\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.pdb
+D:\Trabajo\Workspace\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\bin\Debug\bdanexo.accdb
+D:\Trabajo\Workspace\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\bin\Debug\ControlAnexo.exe
+D:\Trabajo\Workspace\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\bin\Debug\ControlAnexo.pdb
+D:\Trabajo\Workspace\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Trabajo\Workspace\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.modeloanexo4.accesoriosReport.resources
+D:\Trabajo\Workspace\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.modeloanexo4.almacenamientoReport.resources
+D:\Trabajo\Workspace\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.modeloanexo4.anexo4.resources
+D:\Trabajo\Workspace\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.modeloanexo4.anexoReport.resources
+D:\Trabajo\Workspace\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.modeloanexo4.configReport.resources
+D:\Trabajo\Workspace\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.modeloanexo4.escanerReport.resources
+D:\Trabajo\Workspace\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.modeloanexo4.faxReport.resources
+D:\Trabajo\Workspace\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.modeloanexo4.fotocopiadoraReport.resources
+D:\Trabajo\Workspace\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.modeloanexo4.impresoraReport.resources
+D:\Trabajo\Workspace\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.modeloanexo4.monitorReport.resources
+D:\Trabajo\Workspace\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.modeloanexo4.SwReport.resources
+D:\Trabajo\Workspace\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.modeloanexo4.upsReport.resources
+D:\Trabajo\Workspace\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.PrintRibbonControllerResources.resources
+D:\Trabajo\Workspace\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.vistas.VNuevoUsuario.resources
+D:\Trabajo\Workspace\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.vistas.VActualizarDatos.resources
+D:\Trabajo\Workspace\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.Properties.Resources.resources
+D:\Trabajo\Workspace\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.vistas.VPantallaInicial.resources
+D:\Trabajo\Workspace\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.vistas.VReporte.resources
+D:\Trabajo\Workspace\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.vistas.Vinicio.resources
+D:\Trabajo\Workspace\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.vistas.VNuevoMedioComputo.resources
+D:\Trabajo\Workspace\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.vistas.VSplashScreen.resources
+D:\Trabajo\Workspace\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.XRDesignRibbonControllerResources.resources
+D:\Trabajo\Workspace\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Trabajo\Workspace\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Trabajo\Workspace\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.exe.licenses
+D:\Trabajo\Workspace\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.modeloanexo4.Total.resources
+D:\Trabajo\Workspace\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.vistas.VTotalReporte.resources
+D:\C\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\bin\Debug\ControlAnexo.exe.config
+D:\C\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.exe
+D:\C\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.pdb
+D:\C\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\bin\Debug\bdanexo.accdb
+D:\C\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\bin\Debug\ControlAnexo.exe
+D:\C\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\bin\Debug\ControlAnexo.pdb
+D:\C\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.csprojResolveAssemblyReference.cache
+D:\C\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.modeloanexo4.accesoriosReport.resources
+D:\C\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.modeloanexo4.almacenamientoReport.resources
+D:\C\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.modeloanexo4.anexo4.resources
+D:\C\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.modeloanexo4.anexoReport.resources
+D:\C\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.modeloanexo4.configReport.resources
+D:\C\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.modeloanexo4.escanerReport.resources
+D:\C\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.modeloanexo4.faxReport.resources
+D:\C\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.modeloanexo4.fotocopiadoraReport.resources
+D:\C\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.modeloanexo4.impresoraReport.resources
+D:\C\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.modeloanexo4.monitorReport.resources
+D:\C\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.modeloanexo4.SwReport.resources
+D:\C\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.modeloanexo4.Total.resources
+D:\C\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.modeloanexo4.upsReport.resources
+D:\C\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.PrintRibbonControllerResources.resources
+D:\C\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.vistas.VNuevoUsuario.resources
+D:\C\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.vistas.VActualizarDatos.resources
+D:\C\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.Properties.Resources.resources
+D:\C\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.vistas.VPantallaInicial.resources
+D:\C\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.vistas.VReporte.resources
+D:\C\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.vistas.Vinicio.resources
+D:\C\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.vistas.VNuevoMedioComputo.resources
+D:\C\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.vistas.VSplashScreen.resources
+D:\C\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.vistas.VTotalReporte.resources
+D:\C\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.XRDesignRibbonControllerResources.resources
+D:\C\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.csproj.GenerateResource.Cache
+D:\C\Nueva carpeta\Carlos Sistema Trabajo\ControlAnexo\ControlAnexo\obj\x86\Debug\ControlAnexo.exe.licenses

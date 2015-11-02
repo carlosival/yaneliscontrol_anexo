@@ -1,0 +1,373 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{09E0275A-D2F4-4C0C-B1B9-3B9D0039A100}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ControlAnexo</RootNamespace>
+    <AssemblyName>ControlAnexo</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.BonusSkins.v13.1" />
+    <Reference Include="DevExpress.Charts.v13.1.Core, Version=13.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v13.1" />
+    <Reference Include="DevExpress.Office.v13.1.Core, Version=13.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v13.1.Core, Version=13.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v13.1.Core, Version=13.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v13.1.Core, Version=13.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v13.1" />
+    <Reference Include="DevExpress.Sparkline.v13.1.Core" />
+    <Reference Include="DevExpress.Utils.v13.1.UI, Version=13.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v13.1, Version=13.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v13.1, Version=13.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v13.1" />
+    <Reference Include="DevExpress.XtraGrid.v13.1, Version=13.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v13.1, Version=13.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v13.1, Version=13.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraReports.v13.1, Version=13.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v13.1.Extensions, Version=13.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraWizard.v13.1, Version=13.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="bdanexoDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bdanexoDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="modeloanexo4\accesoriosReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="modeloanexo4\accesoriosReport.Designer.cs">
+      <DependentUpon>accesoriosReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="modeloanexo4\almacenamientoReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="modeloanexo4\almacenamientoReport.Designer.cs">
+      <DependentUpon>almacenamientoReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="modeloanexo4\anexo4.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="modeloanexo4\anexo4.Designer.cs">
+      <DependentUpon>anexo4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="modeloanexo4\anexoReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="modeloanexo4\anexoReport.Designer.cs">
+      <DependentUpon>anexoReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="modeloanexo4\configReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="modeloanexo4\configReport.Designer.cs">
+      <DependentUpon>configReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="modeloanexo4\escanerReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="modeloanexo4\escanerReport.Designer.cs">
+      <DependentUpon>escanerReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="modeloanexo4\faxReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="modeloanexo4\faxReport.Designer.cs">
+      <DependentUpon>faxReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="modeloanexo4\fotocopiadoraReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="modeloanexo4\fotocopiadoraReport.Designer.cs">
+      <DependentUpon>fotocopiadoraReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="modeloanexo4\impresoraReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="modeloanexo4\impresoraReport.Designer.cs">
+      <DependentUpon>impresoraReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="modeloanexo4\monitorReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="modeloanexo4\monitorReport.Designer.cs">
+      <DependentUpon>monitorReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="modeloanexo4\SwReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="modeloanexo4\SwReport.Designer.cs">
+      <DependentUpon>SwReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="modeloanexo4\Total.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="modeloanexo4\Total.Designer.cs">
+      <DependentUpon>Total.cs</DependentUpon>
+    </Compile>
+    <Compile Include="modeloanexo4\upsReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="modeloanexo4\upsReport.Designer.cs">
+      <DependentUpon>upsReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="modelo\Accesorios.cs" />
+    <Compile Include="modelo\CdRoom.cs" />
+    <Compile Include="modelo\Configuracion.cs" />
+    <Compile Include="modelo\DiscoDurocs.cs" />
+    <Compile Include="modelo\Disquete.cs" />
+    <Compile Include="modelo\Equipo.cs" />
+    <Compile Include="modelo\Expediente.cs" />
+    <Compile Include="modelo\Fax.cs" />
+    <Compile Include="modelo\Fotocopiadora.cs" />
+    <Compile Include="modelo\Impresora.cs" />
+    <Compile Include="modelo\Monitor.cs" />
+    <Compile Include="modelo\Scanner.cs" />
+    <Compile Include="modelo\Switch.cs" />
+    <Compile Include="modelo\Ups.cs" />
+    <Compile Include="modelo\Usuario.cs" />
+    <Compile Include="PrintRibbonControllerResources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PrintRibbonControllerResources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="vistas\Validacion.cs" />
+    <Compile Include="vistas\VNuevoUsuarii.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vistas\VNuevoUsuarii.Designer.cs">
+      <DependentUpon>VNuevoUsuarii.cs</DependentUpon>
+    </Compile>
+    <Compile Include="vistas\VActualizarDatos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vistas\VActualizarDatos.Designer.cs">
+      <DependentUpon>VActualizarDatos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="vistas\VPantallaInicial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vistas\VPantallaInicial.Designer.cs">
+      <DependentUpon>VPantallaInicial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="vistas\VReporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vistas\VReporte.Designer.cs">
+      <DependentUpon>VReporte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="vistas\Vinicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vistas\Vinicio.Designer.cs">
+      <DependentUpon>Vinicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="vistas\VNuevoMedioComputo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vistas\VNuevoMedioComputo.Designer.cs">
+      <DependentUpon>VNuevoMedioComputo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="vistas\VSplashScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vistas\VSplashScreen.Designer.cs">
+      <DependentUpon>VSplashScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="vistas\VTotalReporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vistas\VTotalReporte.Designer.cs">
+      <DependentUpon>VTotalReporte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XRDesignRibbonControllerResources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>XRDesignRibbonControllerResources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="modeloanexo4\accesoriosReport.resx">
+      <DependentUpon>accesoriosReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modeloanexo4\almacenamientoReport.resx">
+      <DependentUpon>almacenamientoReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modeloanexo4\anexo4.resx">
+      <DependentUpon>anexo4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modeloanexo4\anexoReport.resx">
+      <DependentUpon>anexoReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modeloanexo4\configReport.resx">
+      <DependentUpon>configReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modeloanexo4\escanerReport.resx">
+      <DependentUpon>escanerReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modeloanexo4\faxReport.resx">
+      <DependentUpon>faxReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modeloanexo4\fotocopiadoraReport.resx">
+      <DependentUpon>fotocopiadoraReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modeloanexo4\impresoraReport.resx">
+      <DependentUpon>impresoraReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modeloanexo4\monitorReport.resx">
+      <DependentUpon>monitorReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modeloanexo4\SwReport.resx">
+      <DependentUpon>SwReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modeloanexo4\Total.resx">
+      <DependentUpon>Total.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modeloanexo4\upsReport.resx">
+      <DependentUpon>upsReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintRibbonControllerResources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>PrintRibbonControllerResources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vistas\VNuevoUsuarii.resx">
+      <DependentUpon>VNuevoUsuarii.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vistas\VActualizarDatos.resx">
+      <DependentUpon>VActualizarDatos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="vistas\VPantallaInicial.resx">
+      <DependentUpon>VPantallaInicial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vistas\VReporte.resx">
+      <DependentUpon>VReporte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vistas\Vinicio.resx">
+      <DependentUpon>Vinicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vistas\VNuevoMedioComputo.resx">
+      <DependentUpon>VNuevoMedioComputo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vistas\VSplashScreen.resx">
+      <DependentUpon>VSplashScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vistas\VTotalReporte.resx">
+      <DependentUpon>VTotalReporte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XRDesignRibbonControllerResources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>XRDesignRibbonControllerResources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="bdanexoDataSet.xsc">
+      <DependentUpon>bdanexoDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="bdanexoDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bdanexoDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bdanexoDataSet.xss">
+      <DependentUpon>bdanexoDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\DataSources\ControlAnexo.modelo.DiscoDuro.datasource" />
+    <None Include="Properties\DataSources\ControlAnexo.modelo.Expediente.datasource" />
+    <None Include="Properties\DataSources\ControlAnexo.modelo.Usuario.datasource" />
+    <None Include="Properties\DataSources\ControlAnexo.modeloanexo4.DiscoDuro.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="acceso a datos\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\AddFile_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\Remove_32x32.png" />
+    <None Include="resources\Other_32x32.png" />
+    <None Include="resources\Profile.png" />
+    <None Include="resources\PageOrientationPortrait.png" />
+    <None Include="resources\NewAlbum_32x32.png" />
+    <None Include="resources\GenerateData_32x32.png" />
+    <None Include="resources\Album_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\My Computer.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bdanexo.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="resources\logo ch.png" />
+    <None Include="resources\logo.png" />
+    <None Include="resources\banner1.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
